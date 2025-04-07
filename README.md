@@ -1,4 +1,3 @@
- 
 # 🔧 Custom Instruction-Based Mini Compiler
 
 This project simulates a basic custom compiler that reads mathematical instructions from a text file, parses them, takes user input (like the value of `x`), and computes the result.
